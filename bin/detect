@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# bin/detect <build-dir>
+[ -f "$1/package.json" ] && echo "Node.js"
