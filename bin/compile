@@ -4,3 +4,4 @@
 # Execute compile script
 
 echo "THIS IS MY CUSTOM COMPILE!!!!!!!!!!!"
+exit 0
